@@ -8,10 +8,7 @@ public class Main {
         variable.setDireccion("C/de mi casa,5");
         variable.setNumHijos(12);
 
-        variable.infoEmpleado();
-
-        System.out.println("Hola");
-    }
+        variable.infoEmpleado();    }
 
 
 }
